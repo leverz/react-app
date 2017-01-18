@@ -1,0 +1,23 @@
+{
+  "name": "react-app",
+  "version": "1.0.0",
+  "description": "an example",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leverz/react-app.git"
+  },
+  "keywords": [
+    "React",
+    "Native"
+  ],
+  "author": "Lever",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leverz/react-app/issues"
+  },
+  "homepage": "https://github.com/leverz/react-app#readme"
+}
